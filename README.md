@@ -1,4 +1,4 @@
-# Autonomous Coding Agent (SWE-agent style)
+# Autonomous Coding Agent
 
 
 
