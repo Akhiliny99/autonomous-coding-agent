@@ -1,0 +1,8 @@
+langgraph
+langchain-core
+groq
+PyGithub
+tree-sitter
+tree-sitter-python
+docker
+gitpython

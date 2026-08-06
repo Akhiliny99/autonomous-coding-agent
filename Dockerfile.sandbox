@@ -1,0 +1,5 @@
+FROM python:3.11-slim
+WORKDIR /workspace
+RUN pip install --no-cache-dir pytest
+# The target repo is mounted at runtime, not copied in here,
+# so this image can be reused across many different repos/runs.
